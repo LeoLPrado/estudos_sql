@@ -3,7 +3,6 @@
 SELECT 
         -- Quantas linhas tem a tabela
         count(*),
-        count(1),
-        count(IdCliente)
+        count(1)
 
 FROM clientes
