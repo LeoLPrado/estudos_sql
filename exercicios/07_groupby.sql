@@ -1,8 +1,7 @@
 -- Qual produto com mais pontos transacionados
 
 SELECT IdProduto,
-        sum(vlProduto * QtdeProduto) AS totalPontos,
-        sum(QtdeProduto) AS QtVenda
+        sum(vlProduto * QtdeProduto) AS totalPontos
 
 FROM transacao_produto
 
