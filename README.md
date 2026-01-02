@@ -5,18 +5,19 @@ Aqui reúno exercícios, consultas, anotações e exemplos práticos sobre manip
 
 🧠 Conteúdos abordados
 
-Consultas básicas (SELECT, WHERE, ORDER BY, LIMIT)
-Operadores lógicos e filtros
-Funções de agregação (COUNT, SUM, AVG, MIN, MAX)
-GROUP BY e HAVING
-Subqueries
-Joins
-Boas práticas em SQL
+Consultas básicas (SELECT, WHERE, ORDER BY, LIMIT), 
+Operadores lógicos e filtros, 
+Funções de agregação (COUNT, SUM, AVG, MIN, MAX), 
+GROUP BY e HAVING, 
+Subqueries, 
+Joins, 
+CTE,
+Boas práticas em SQL.
 
 🛠️ Ambiente de estudo
 
-Visual Studio Code (VS Code)
-Extensão SQLite utilizada apenas como ferramenta de apoio para execução e visualização das consultas SQL
+Visual Studio Code (VS Code) e a 
+extensão SQLite utilizada apenas como ferramenta de apoio para execução e visualização das consultas SQL
 
 🎯 Objetivo
 
